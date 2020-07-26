@@ -106,7 +106,7 @@ welcome = """
   </style>
 </head>
 <body id="sample">
-<p> Sample for interview </p>
+<b><p> Sample for interview </p></b>
 </body>
 </html>
 """
