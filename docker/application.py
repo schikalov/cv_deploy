@@ -29,6 +29,16 @@ welcome = """
 </head>
 <body>
 <b><p> Sample for interview </p></b>
+<p><p></p></p>
+<p><a href="https://github.com/schikalov/interview_sample/">Project repo on GitHub</a></p>
+<p><a href="http://jenkins.schikalov.ru:8080/">Jenkins (Read only)</a></p>
+<p><a href="http://prod.schikalov.ru//">This page</a></p>
+
+<p><p></p></p>
+
+<b><p> Latest commit id: </p></b>
+<b><p> Latest version: </p></b>
+
 </body>
 </html>
 """
